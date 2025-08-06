@@ -1,0 +1,15 @@
+Title                     Author               Pages   Date Added      Availability Borrowed By (Email)            Category       
+Büyük Felsefe Kitabı      Metin Lütfi Baydar   128     Thu Jun 12 17:34:44 TRT 2025 Borrowed   Cemo@gmail.com                 Philosophy     
+Çalıkuşu                  Reşat Nuri Güntekin  526     Thu Jun 12 17:34:44 TRT 2025 Available  -                              Literature     
+Cumhuriyet Tarihi         Feroz Ahmad          789     Thu Jun 12 17:34:44 TRT 2025 Available  -                              History        
+Felsefe Tarihi            İsmail Tunalı        464     Thu Jun 12 17:34:44 TRT 2025 Available  -                              Philosophy     
+Felsefenin Temelleri      Murat Belge          216     Thu Jun 12 17:34:44 TRT 2025 Available  -                              Philosophy     
+İnce Memed                Yaşar Kemal          576     Thu Jun 12 17:34:44 TRT 2025 Available  -                              Literature     
+Kırmızı Pazartesi         Gabriel Garcia Marquez 221     Thu Jun 12 17:34:44 TRT 2025 Available  -                              Literature     
+Kürk Mantolu Madonna      Sabahattin Ali       224     Thu Jun 12 17:34:44 TRT 2025 Available  -                              Literature     
+Matematiksel Düşünme      İsmail E. Erdem      312     Thu Jun 12 17:34:44 TRT 2025 Available  -                              Science        
+Osmanlı Tarihi            Halil İnalcık        850     Thu Jun 12 17:34:44 TRT 2025 Available  -                              History        
+Saatleri Ayarlama Enstitüsü Ahmet Hamdi Tanpınar 352     Thu Jun 12 17:34:44 TRT 2025 Available  -                              Literature     
+Türk Dilinin Etimolojisi  Süleyman Güngör      412     Thu Jun 12 17:34:44 TRT 2025 Available  -                              Science        
+Türklerin Tarihi          Köksal Yılmaz        396     Thu Jun 12 17:34:44 TRT 2025 Available  -                              History        
+Tutunamayanlar            Oğuz Atay            704     Thu Jun 12 17:34:44 TRT 2025 Available  -                              Literature     
