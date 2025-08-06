@@ -1,31 +1,28 @@
-# 📚 Library Automation System
+📚 Library Automation System
+A simple library automation system developed in Java
+Developer: Cem Pekgöz | Software Engineering – FSMVÜ
 
-> Java ile geliştirilmiş basit bir kütüphane otomasyon sistemi  
-> Geliştirici: Cem Pekgöz | Yazılım Mühendisliği – FSMVÜ
+🛠️ Technologies Used
+Java (JDK 17 or higher)
 
----
+Apache NetBeans IDE
 
-## 🛠️ Kullanılan Teknolojiler
+Swing GUI (user interface)
 
-- Java (JDK 17 veya üzeri)
-- Apache NetBeans IDE
-- Swing GUI (arayüz)
-- Dosya tabanlı veri saklama (veritabanı yerine `.txt` kullanılmış olabilir)
+File-based data storage (may use .txt files instead of a database)
 
----
+📦 Project Features
+Add new books
 
-## 📦 Proje Özellikleri
+View book list
 
-- Yeni kitap ekleme
-- Kitap listesi görüntüleme
-- Kitap silme/güncelleme
-- Kullanıcı arayüzü üzerinden tüm işlemleri gerçekleştirme
+Delete/update books
 
----
+Perform all operations through a user-friendly interface
 
-## 🔧 Kurulum ve Çalıştırma
+🔧 Installation and Running
+Open the project with Apache NetBeans IDE (or IntelliJ IDEA)
 
-1. Apache NetBeans IDE (veya IntelliJ IDEA) ile projeyi açın  
-2. Gerekirse `lib/` klasöründeki harici jar dosyalarını projeye ekleyin  
-3. `Main.java` dosyasını çalıştırarak uygulamayı başlatın
+If needed, add external jar files from the lib/ folder to the project
 
+Run the Main.java file to start the application
